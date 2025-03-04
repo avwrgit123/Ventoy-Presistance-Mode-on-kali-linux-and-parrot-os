@@ -1,0 +1,1 @@
+# Ventoy-Presistance-Mode-on-kali-linux-and-parrot-os
